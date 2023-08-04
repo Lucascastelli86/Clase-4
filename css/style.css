@@ -1,0 +1,69 @@
+.foot {
+    font-weight: 700;
+    font-style: oblique;
+}
+
+.dias {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.horarios {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.dia-l {
+    font-weight: 900;
+    font-size: larger;
+    color: blue;
+}
+
+.horario-l {
+    font-style: oblique;
+    color: blue;
+}
+
+.dia-m {
+    font-weight: 900;
+    font-size: larger;
+    color: brown;
+}
+
+.horario-m {
+    font-style: oblique;
+    color: brown;
+}
+
+.dia-x {
+    font-weight: 900;
+    font-size: larger;
+    color: yellow
+}
+
+.horario-x {
+    font-style: oblique;
+    color: yellow
+}
+
+.dia-j {
+    font-weight: 900;
+    font-size: larger;
+    color: green
+}
+
+.horario-j {
+    font-style: oblique;
+    color: green
+}
+
+.dia-v {
+    font-weight: 900;
+    font-size: larger;
+    color: purple
+}
+
+.horario-v {
+    font-style: oblique;
+    color: purple
+}
